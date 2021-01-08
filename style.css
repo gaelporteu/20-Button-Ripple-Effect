@@ -50,3 +50,9 @@ button .circle {
     opacity: 0;
   }
 }
+
+small {
+  color: #fff;
+  opacity: 0.4;
+  margin-top: 25px;
+}
